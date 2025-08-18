@@ -1,4 +1,4 @@
-#Professional Self-Assessment
+# Professional Self-Assessment
 
 Throughout my Computer Science program, I have developed the technical knowledge, problem-solving ability, and professional skills necessary to succeed as a software engineer. This ePortfolio represents the culmination of that growth and highlights my ability to design, analyze, and enhance software systems in alignment with industry expectations.
 
