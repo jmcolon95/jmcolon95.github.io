@@ -12,7 +12,7 @@ This self-assessment reflects my readiness to apply my knowledge to real-world c
 
 ## Self Reflections
 
-### [Self-Introductions](Project_ePortfolio/CS 499 Module One Assignment.docx)
+### [Self-Introductions (Word Document](Project_ePortfolio/CS%20499%20Module%20One%20Assignment.docx)
 
 This paper will have my self introduction related to the computer science experience. It shares my view points and what I was planning to work on on my artifacts.
 
