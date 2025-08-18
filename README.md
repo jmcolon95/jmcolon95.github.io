@@ -22,7 +22,7 @@ I perform a code review that shows what I wanted to work on and the functionalit
 
 ## Software Design and Engineering Enhancement Narrative
 
-### - [Milestone 2 (Word Document)](Project_ePortfolio/Narrative Milestone 2 (1).docx)
+### - [Milestone 2 (Word Document)](Project_ePortfolio/Narrative%20Milestone%202%20(1).docx)
 ### [Code](Project_ePortfolio/Thermostat_2.py)
 
 This shows how I enhanced the code in a Design way, which was fixing all the comments, a few coding that needed polishing. This focuses on the enhancing of the code to reach a more fluid look.
