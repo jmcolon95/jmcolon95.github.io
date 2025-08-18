@@ -17,8 +17,8 @@ This self-assessment reflects my readiness to apply my knowledge to real-world c
 This paper will have my self introduction related to the computer science experience. It shares my view points and what I was planning to work on on my artifacts.
 
 ## Code Review
-## [Part_1](https://youtu.be/aY72ZmkFMkQ)
-## [Part 2](https://youtu.be/Q9QTdPC0NA0)
+### [Part_1](https://youtu.be/aY72ZmkFMkQ)
+### [Part 2](https://youtu.be/Q9QTdPC0NA0)
 
 I perform a code review that shows what I wanted to work on and the functionality of the code by itself. It shows my planning of enhancements for the code and what I wanted to enhance.
 
