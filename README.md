@@ -34,9 +34,9 @@ This shows how I enhanced the code in a Design way, which was fixing all the com
 
 This shows my skills in using the pid and getting the code ready to be able to send information to a mongodb to collect on going information about what is happening in the system.
 
-## Dataabses Enhancement
+## Databases Enhancement
 
-### - [Milestone 4 (Word Document)](Project_ePortfolio/Narrative%20Milestone%204.docx)
+### [Milestone 4 (Word Document)](Project_ePortfolio/Narrative%20Milestone%204.docx)
 ### [Code](Project_ePortfolio/Thermostat_4.py)
 
 ![ThermostatCluster Start](Project_ePortfolio/Database.png)
