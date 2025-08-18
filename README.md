@@ -12,7 +12,7 @@ This self-assessment reflects my readiness to apply my knowledge to real-world c
 
 ## Self Reflections
 
-### - [Self-Introductions](Project_ePortfolio/CS 499 Module One Assignment.docx)
+### [Self-Introductions](Project_ePortfolio/CS 499 Module One Assignment.docx)
 
 This paper will have my self introduction related to the computer science experience. It shares my view points and what I was planning to work on on my artifacts.
 
@@ -22,21 +22,21 @@ I perform a code review that shows what I wanted to work on and the functionalit
 
 ## Software Design and Engineering Enhancement Narrative
 
-### - [Milestone 2 (Word Document)](Project_ePortfolio/Narrative%20Milestone%202%20(1).docx)
+### [Milestone 2 (Word Document)](Project_ePortfolio/Narrative%20Milestone%202%20(1).docx)
 ### [Code](Project_ePortfolio/Thermostat_2.py)
 
 This shows how I enhanced the code in a Design way, which was fixing all the comments, a few coding that needed polishing. This focuses on the enhancing of the code to reach a more fluid look.
 
 ## Algorithms and Data Structure Enhancement
 
-### - [Milestone 3 (Word Document)](Project_ePortfolio/Narrative Milestone 3.docx)
+### [Milestone 3 (Word Document)](Project_ePortfolio/Narrative%20Milestone%203.docx)
 ### [Code](Project_ePortfolio/Thermostat_3.py)
 
 This shows my skills in using the pid and getting the code ready to be able to send information to a mongodb to collect on going information about what is happening in the system.
 
 ## Dataabses Enhancement
 
-### - [Milestone 4 (Word Document)](Project_ePortfolio/Narrative Milestone 4.docx)
+### - [Milestone 4 (Word Document)](Project_ePortfolio/Narrative%20Milestone%204.docx)
 ### [Code](Project_ePortfolio/Thermostat_4.py)
 
 ![ThermostatCluster Start](Project_ePortfolio/Database.png)
