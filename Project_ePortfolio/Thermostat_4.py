@@ -192,7 +192,7 @@ class TemperatureMachine:
         self.pid = PID(Kp=1.2, Ki=0.01, Kd=0.05, setpoint=self.setPoint)
         self.pid.output_limits = (0,1) # LED brightness range
 
-        self.client = MongoClient("mongodb+srv://jmcolonm95:f2bm44ay0G1Df1xw@thermostatcluster.iljkwri.mongodb.net/?retryWrites=true&w=majority&appName=ThermostatCluster")
+        self.client = MongoClient(##currently empty to keep info safe)
         self.db = self.client['thermostat_data']
         self.collection = self.db['temperature_logs']
     
@@ -337,6 +337,7 @@ class TemperatureMachine:
         }
         self.collection.insert_one(log_entry)
         if DEBUG:
+
             print("Logged to MongoDB:", log_entry)
     ## End class TemperatureMachine definition
 
